@@ -1,0 +1,41 @@
+paragraph_id,paragraph,entity_text,entity_type,score
+1,"Elon Musk announced that Tesla would build a new gigafactory near Berlin, Germany. The project has been approved by local authorities.",Elon Musk,Organization,0.9980251789093018
+1,"Elon Musk announced that Tesla would build a new gigafactory near Berlin, Germany. The project has been approved by local authorities.",Tesla,Organization,0.5712224841117859
+1,"Elon Musk announced that Tesla would build a new gigafactory near Berlin, Germany. The project has been approved by local authorities.",Berlin,Location,0.9995543360710144
+1,"Elon Musk announced that Tesla would build a new gigafactory near Berlin, Germany. The project has been approved by local authorities.",Germany,Location,0.9997001886367798
+2,Apple released its latest iPhone at a launch event in Cupertino. Tim Cook highlighted the new camera features during the keynote.,Apple,Organization,0.998602569103241
+2,Apple released its latest iPhone at a launch event in Cupertino. Tim Cook highlighted the new camera features during the keynote.,Cupertino,Location,0.9975268244743347
+2,Apple released its latest iPhone at a launch event in Cupertino. Tim Cook highlighted the new camera features during the keynote.,Tim Cook,Person,0.9997717142105103
+3,The United Nations Climate Summit in Paris brought together leaders from over 100 countries. Antonio Guterres opened with a speech on urgency.,Paris,Location,0.9995970129966736
+3,The United Nations Climate Summit in Paris brought together leaders from over 100 countries. Antonio Guterres opened with a speech on urgency.,Antonio Guterres,Person,0.9992217421531677
+4,Researchers at MIT and Stanford published a joint paper on quantum computing. Dr. Emily Zhang led the Stanford team.,MIT,Organization,0.9982653260231018
+4,Researchers at MIT and Stanford published a joint paper on quantum computing. Dr. Emily Zhang led the Stanford team.,Stanford,Organization,0.9988875985145569
+4,Researchers at MIT and Stanford published a joint paper on quantum computing. Dr. Emily Zhang led the Stanford team.,Emily Zhang,Person,0.9996048808097839
+4,Researchers at MIT and Stanford published a joint paper on quantum computing. Dr. Emily Zhang led the Stanford team.,Stanford,Organization,0.9972496628761292
+5,"Amazon expanded its warehouse operations in Manchester, England. The company plans to hire 2,000 new workers by next year.",Amazon,Organization,0.9987679123878479
+5,"Amazon expanded its warehouse operations in Manchester, England. The company plans to hire 2,000 new workers by next year.",Manchester,Location,0.9985771179199219
+5,"Amazon expanded its warehouse operations in Manchester, England. The company plans to hire 2,000 new workers by next year.",England,Location,0.9992838501930237
+6,President Biden met with Chancellor Scholz in Washington to discuss NATO expansion and defense spending.,B,Person,0.9994988441467285
+6,President Biden met with Chancellor Scholz in Washington to discuss NATO expansion and defense spending.,##iden,Person,0.9891293048858643
+6,President Biden met with Chancellor Scholz in Washington to discuss NATO expansion and defense spending.,Schol,Person,0.9906392693519592
+6,President Biden met with Chancellor Scholz in Washington to discuss NATO expansion and defense spending.,##z,Person,0.6703059077262878
+6,President Biden met with Chancellor Scholz in Washington to discuss NATO expansion and defense spending.,Washington,Location,0.9994789958000183
+6,President Biden met with Chancellor Scholz in Washington to discuss NATO expansion and defense spending.,NATO,Organization,0.9960362315177917
+7,Google DeepMind achieved a breakthrough in protein structure prediction. Demis Hassabis presented the findings at a London conference.,Google DeepMind,Organization,0.9902101755142212
+7,Google DeepMind achieved a breakthrough in protein structure prediction. Demis Hassabis presented the findings at a London conference.,De,Person,0.9994706511497498
+7,Google DeepMind achieved a breakthrough in protein structure prediction. Demis Hassabis presented the findings at a London conference.,##mis Hassabis,Person,0.9916317462921143
+7,Google DeepMind achieved a breakthrough in protein structure prediction. Demis Hassabis presented the findings at a London conference.,London,Location,0.99937504529953
+8,Samsung unveiled new Galaxy devices at Mobile World Congress in Barcelona. The event drew attention from tech journalists worldwide.,Samsung,Organization,0.9985876083374023
+8,Samsung unveiled new Galaxy devices at Mobile World Congress in Barcelona. The event drew attention from tech journalists worldwide.,Barcelona,Location,0.9986128807067871
+9,The European Central Bank raised interest rates again. Christine Lagarde warned about persistent inflation in the eurozone.,European Central Bank,Organization,0.9994442462921143
+9,The European Central Bank raised interest rates again. Christine Lagarde warned about persistent inflation in the eurozone.,Christine Lagard,Person,0.9994606971740723
+10,Netflix announced a partnership with Studio Ghibli to stream their films globally. Reed Hastings called it a milestone for the platform.,Netflix,Organization,0.9985643029212952
+10,Netflix announced a partnership with Studio Ghibli to stream their films globally. Reed Hastings called it a milestone for the platform.,Studio Ghibli,Organization,0.8927310705184937
+10,Netflix announced a partnership with Studio Ghibli to stream their films globally. Reed Hastings called it a milestone for the platform.,Reed Hastings,Person,0.9996700286865234
+11,"SpaceX launched another batch of Starlink satellites from Cape Canaveral, Florida. Gwynne Shotwell oversaw the mission operations.",SpaceX,Organization,0.9991530179977417
+11,"SpaceX launched another batch of Starlink satellites from Cape Canaveral, Florida. Gwynne Shotwell oversaw the mission operations.",Starlink,Organization,0.9171141386032104
+11,"SpaceX launched another batch of Starlink satellites from Cape Canaveral, Florida. Gwynne Shotwell oversaw the mission operations.",Cape Canaveral,Location,0.9970132112503052
+11,"SpaceX launched another batch of Starlink satellites from Cape Canaveral, Florida. Gwynne Shotwell oversaw the mission operations.",Florida,Location,0.9993228912353516
+11,"SpaceX launched another batch of Starlink satellites from Cape Canaveral, Florida. Gwynne Shotwell oversaw the mission operations.",G,Person,0.9993972778320312
+11,"SpaceX launched another batch of Starlink satellites from Cape Canaveral, Florida. Gwynne Shotwell oversaw the mission operations.",##wyn,Person,0.8862864971160889
+11,"SpaceX launched another batch of Starlink satellites from Cape Canaveral, Florida. Gwynne Shotwell oversaw the mission operations.",##ne Shotwell,Person,0.878062903881073

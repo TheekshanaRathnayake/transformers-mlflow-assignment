@@ -1,0 +1,9 @@
+
+Task 3 - Run 1 Observations
+Model: gpt2
+Temperature: 0.7
+Max Length: 50
+
+Observation:
+This run uses a moderate temperature and medium max length.
+The generated text is usually fairly coherent while still showing some creativity.

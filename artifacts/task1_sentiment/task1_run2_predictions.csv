@@ -1,0 +1,21 @@
+text,true_label,predicted_label,confidence_score
+I absolutely loved this movie. It was amazing from start to finish.,POSITIVE,POSITIVE,0.9998863935470581
+The food was terrible and the service was even worse.,NEGATIVE,NEGATIVE,0.9997928738594055
+This laptop works perfectly and the battery life is excellent.,POSITIVE,POSITIVE,0.9998353719711304
+I regret buying this product. It broke on the first day.,NEGATIVE,NEGATIVE,0.9912464022636414
+The customer support team was very helpful and kind.,POSITIVE,POSITIVE,0.9997584223747253
+The room was dirty and smelled awful.,NEGATIVE,NEGATIVE,0.9994595646858215
+I am very happy with the quality of this phone.,POSITIVE,POSITIVE,0.999836802482605
+This was a complete waste of money.,NEGATIVE,NEGATIVE,0.9997773766517639
+The teacher explained everything clearly and patiently.,POSITIVE,POSITIVE,0.9990869760513306
+I hated the ending of the series. It was disappointing.,NEGATIVE,NEGATIVE,0.9997474551200867
+The book was inspiring and beautifully written.,POSITIVE,POSITIVE,0.9998852014541626
+The app crashes every time I try to open it.,NEGATIVE,NEGATIVE,0.999592125415802
+"Our vacation was relaxing, fun, and memorable.",POSITIVE,POSITIVE,0.9998804330825806
+The package arrived late and the item was damaged.,NEGATIVE,NEGATIVE,0.9996041655540466
+This restaurant serves delicious meals every time.,POSITIVE,POSITIVE,0.9998553991317749
+The headphones sound awful and feel very cheap.,NEGATIVE,NEGATIVE,0.9998086094856262
+I enjoyed the workshop and learned a lot.,POSITIVE,POSITIVE,0.9998102784156799
+The website is confusing and hard to use.,NEGATIVE,NEGATIVE,0.9995997548103333
+The new update made the software faster and smoother.,POSITIVE,NEGATIVE,0.9433385729789734
+I am disappointed by how poor the build quality is.,NEGATIVE,NEGATIVE,0.9998238682746887

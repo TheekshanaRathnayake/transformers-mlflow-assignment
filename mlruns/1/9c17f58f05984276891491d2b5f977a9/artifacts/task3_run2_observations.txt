@@ -1,0 +1,9 @@
+
+Task 3 - Run 2 Observations
+Model: gpt2
+Temperature: 1.0
+Max Length: 70
+
+Observation:
+This run uses a higher temperature and longer max length.
+The outputs may become more creative and longer, but they can also become less controlled or slightly repetitive.
