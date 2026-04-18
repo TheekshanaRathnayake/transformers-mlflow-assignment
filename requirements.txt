@@ -1,0 +1,11 @@
+torch
+transformers
+mlflow
+pandas
+scikit-learn
+matplotlib
+jupyter
+ipywidgets
+notebook
+accelerate
+sentencepiece
